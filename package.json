@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Cream-Capital/Airdrop#readme",
   "dependencies": {
-    "web3": "^1.0.0-beta.33"
+    "web3": "^1.0.0-beta.33",
+    "ethereumjs-tx": "^1.3.3"
   }
 }
